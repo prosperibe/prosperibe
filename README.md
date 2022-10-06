@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @prosperibe
+- 👀 I’m a Python Software Engineer and Interested in learning CI/CD and Devops
+- 🌱 I’m currently Docker and Conatainerization
+- 💞️ I’m looking to collaborate on Django Projects
+- 📫 You can reach me @ Prosperibe12@gmail.com
